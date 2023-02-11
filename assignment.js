@@ -9,7 +9,6 @@ function mindGame(number){
     }
 }
 
-
 //2. Making a function which take a string  and give the output string.length is even or odd
 
 function evenOdd(string){
@@ -91,5 +90,6 @@ function gemsToDiamond(friend1, friend2, friend3){
     }
 }
 
-let result = evenOdd("resan is web developer");
+let para ;
+let result = evenOdd(para);
 console.log(result);
